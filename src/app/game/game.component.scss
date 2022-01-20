@@ -1,0 +1,37 @@
+.main-container {
+  .gameboard {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+
+    .player-one {
+      p {
+        color: rgb(85, 226, 85);
+      }
+    }
+
+    .player-two {
+      p {
+        color: rgb(226, 67, 67);
+      }
+    }
+
+    .gamefield {
+      max-width: 300px;
+      .subfield {
+        cursor: pointer;
+        height: 100px;
+        width: 100px;
+        border: 1px solid #fff;
+        &.player-one {
+         background:  rgb(85, 226, 85);
+        }
+
+        &.player-two {
+        background: rgb(226, 67, 67);
+        }
+      }
+    }
+  }
+}
