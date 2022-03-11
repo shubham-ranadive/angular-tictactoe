@@ -1,14 +1,16 @@
-![Screenshot (796)](https://user-images.githubusercontent.com/96201116/157985914-e638bcab-eaa9-4249-beaa-242bcffe565d.png)
-![Screenshot (798)](https://user-images.githubusercontent.com/96201116/157985919-d71d4ec1-b6cf-403e-8bc2-cc63615288f4.png)
+
+![Screenshot (797)](https://user-images.githubusercontent.com/96201116/157986008-c70a5379-8d82-4e95-a8ed-a37314163d71.png)
+
+![Screenshot (800)](https://user-images.githubusercontent.com/96201116/157986014-0a9c4c72-9f89-4fb1-a911-608ea40f8dc0.png)
+
 ![Screenshot (799)](https://user-images.githubusercontent.com/96201116/157985945-c0a3db45-3475-4a4b-b2ad-065292ef64e9.png)
 
 # TicTacToe
 
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.4.
 
-## Development server
-![Screenshot (799)](https://user-images.githubusercontent.com/96201116/157985945-c0a3db45-3475-4a4b-b2ad-065292ef64e9.png)
+## Development server![Screenshot (801)](https://user-images.githubusercontent.com/96201116/157986023-a7d3500d-27ad-4c6c-a1ee-f637750c1b36.png)
+
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
