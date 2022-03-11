@@ -2,8 +2,8 @@
 ![Screenshot (797)](https://user-images.githubusercontent.com/96201116/157986008-c70a5379-8d82-4e95-a8ed-a37314163d71.png)
 
 ![Screenshot (800)](https://user-images.githubusercontent.com/96201116/157986014-0a9c4c72-9f89-4fb1-a911-608ea40f8dc0.png)
+![Screenshot (801)](https://user-images.githubusercontent.com/96201116/157986078-93c7900e-e537-453a-86f7-3aa94ac3b7db.png)
 
-![Screenshot (799)](https://user-images.githubusercontent.com/96201116/157985945-c0a3db45-3475-4a4b-b2ad-065292ef64e9.png)
 
 # TicTacToe
 
